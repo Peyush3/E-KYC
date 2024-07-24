@@ -1,0 +1,13 @@
+artifacts:
+  FACERECOG_MODEL: deepface
+  HAARCASCADE_PATH: "haarcascade_frontalface_default.xml"
+  INTERMIDEIATE_DIR: "data"
+  CONTOUR_FILE: "contour_id.jpg"
+  FACE_IMG1: "extracted_face.jpg"
+  FACE_IMG2: "Profile.jpg"
+
+secrets:
+  HOST: "localhost"
+  USER: "root"
+  PASSWORD: "@Peyush123"
+  DB: "ekyc"
